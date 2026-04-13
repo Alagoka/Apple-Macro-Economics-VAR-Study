@@ -34,6 +34,5 @@ The IRF analysis reveals that Apple’s Net Income shows higher resilience to tr
 /scripts: Python notebooks used for data wrangling and stationarity prep.
 /results: High-resolution PNGs of stability tests and IRFs.
 🚀 How to Reproduce
-Clone the repository: git clone https://github.com/ALAGOKA/Apple-Macro-Econometrics-VAR-Study.git
 Open models/apple_macro_analysis.wf1 in EViews 14 to inspect the VAR equations and lag-length selection criteria.
 License
